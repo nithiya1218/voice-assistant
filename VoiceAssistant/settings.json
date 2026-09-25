@@ -1,0 +1,10 @@
+ {
+    "language": "en-IN",
+    "default_location": "Walajabad, Kanchipuram, Tamil Nadu, India",
+    "default_timezone": "Asia/Kolkata",
+    "speech_rate": 180,
+    "voice_index": 0,
+    "listen_timeout": 8,
+    "phrase_time_limit": 12,
+    "max_consecutive_misses": 4
+}
